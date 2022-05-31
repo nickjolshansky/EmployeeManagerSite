@@ -9,11 +9,11 @@ I made this with the help of Amigo Codes tutorials and bootdey html snippets for
 This project was meant to help me better understand the full-stack development workflow.
 
 Here are some examples of what the webpage is able to do:
-* [X]Display all employees stored in a local database.
-* [X]Add new employees to the database through a submitted form.
-* [X]Edit an employee through a submitted form.
-* [X]Delete an employee using a button.
-* [X]Search for an employee using a serch input key.
+* Display all employees stored in a local database.
+* Add new employees to the database through a submitted form.
+* Edit an employee through a submitted form.
+* Delete an employee using a button.
+* Search for an employee using a serch input key.
 
 
 ***
